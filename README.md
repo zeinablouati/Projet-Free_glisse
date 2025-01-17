@@ -23,7 +23,11 @@ Le rapport contient plusieurs visualisations permettant d'explorer les produits,
 ## Technologies Utilisées
 
 Power BI : Pour la création des visualisations interactives et des rapports.
+
+
 Python : Pour le nettoyage des données et le scraping du site web.
+
+
 DAX : Pour effectuer des calculs personnalisés et des analyses dans Power BI.
 
 ### Prérequis
@@ -37,7 +41,11 @@ Le code Python utilisé pour transformer les données est disponible dans le ré
 Le projet contient les éléments suivants :
 
 Data : Les fichiers de données CSV utilisés pour créer les rapports (Stocks, Reviews, Catalogue).
+
+
 Scripts : Le script Python pour le scraping et la transformation des données.
+
+
 PowerBI Reports : Le fichier Power BI contenant les visualisations et le rapport.
 
 
